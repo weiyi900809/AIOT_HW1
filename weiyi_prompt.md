@@ -24,6 +24,7 @@
     -   Display the generated plot and regression results.
 
 你可以根據以上要求再加上第一附件的python 程式碼 幫我寫一個python程式嗎
+
 ----
 # GPT result
 
@@ -84,7 +85,7 @@ streamlit run final_streamlit_app.py
 ----
 ----
 
-# deployment 的prompt
+# 2.deployment 的prompt
 
 要怎麼 將我的程式 deployed on Streamlit Cloud
 
